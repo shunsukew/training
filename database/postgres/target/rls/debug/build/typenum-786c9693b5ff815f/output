@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/watanabeshunsuke/rust/training/database/postgres/target/rls/debug/build/typenum-786c9693b5ff815f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/watanabeshunsuke/rust/training/database/postgres/target/rls/debug/build/typenum-786c9693b5ff815f/out/op.rs

@@ -1,0 +1,10 @@
+/Users/watanabeshunsuke/rust/training/database/postgres/target/debug/deps/libasync_trait-918c630a9c1266a3.dylib: /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lib.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/args.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/expand.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lifetime.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/parse.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/receiver.rs
+
+/Users/watanabeshunsuke/rust/training/database/postgres/target/debug/deps/async_trait-918c630a9c1266a3.d: /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lib.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/args.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/expand.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lifetime.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/parse.rs /Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/receiver.rs
+
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lib.rs:
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/args.rs:
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/expand.rs:
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/lifetime.rs:
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/parse.rs:
+/Users/watanabeshunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.30/src/receiver.rs:
